@@ -7,5 +7,4 @@
 ^dev$
 ^run_dev.*$
 ^\.here$
-^inst/stan$
 ^dev_history\.R$

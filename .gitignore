@@ -6,6 +6,10 @@
 .quarto
 .Renviron
 .env
+.Ruserdata
+Thumbs.db
+.vscode/
+.idea/
 renv/library/
 renv/staging/
 data-raw/
@@ -25,3 +29,5 @@ cmdstan-*
 *.dll
 *.exe
 *.dylib
+*.tar.gz
+*.Rcheck/
