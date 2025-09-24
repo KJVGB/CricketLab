@@ -10,6 +10,7 @@ renv/library/
 renv/staging/
 data-raw/
 data/cache/
+data/db/
 *.parquet
 *.feather
 *.rds
@@ -24,4 +25,3 @@ cmdstan-*
 *.dll
 *.exe
 *.dylib
-data/db/

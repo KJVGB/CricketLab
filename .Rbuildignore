@@ -3,10 +3,9 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^data-raw$
-dev_history.R
-^dev$
-$run_dev.*
-^.here$
-^\.here$
 ^data$
+^dev$
+^run_dev.*$
+^\.here$
 ^inst/stan$
+^dev_history\.R$
