@@ -10,7 +10,13 @@ Description: What the package does (one paragraph).
 License: What license is it under?
 Imports: 
     config,
+    data.table,
+    DBI,
+    duckdb,
+    fs,
     golem,
+    jsonlite,
+    readr,
     shiny
 Encoding: UTF-8
 LazyData: true

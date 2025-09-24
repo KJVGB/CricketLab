@@ -7,3 +7,6 @@ dev_history.R
 ^dev$
 $run_dev.*
 ^.here$
+^\.here$
+^data$
+^inst/stan$
